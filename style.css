@@ -5,7 +5,7 @@ margin:0;
 padding:0;
 font-family: 'Comfortaa', cursive;
 }
-.container-fluid
+.top-bar
 {
 width: 100%;
 background:#111;
@@ -99,33 +99,33 @@ padding-top: 30px;
 {
 background-color: #e11;
 }
-.service
+.meer
 {
 width: 100%;
 background: #111;
 padding: 50px 0px;
 }
-.service .text
+.meer .text
 {
 width: 1200px;
 margin:auto;
 padding:25px 0px;
 }
-.service .text h1
+.meer .text h1
 {
 color: #fff;
 font-weight: bold;
 font-size: 40px;
 text-align: center;
 }
-.service .box
+.meer .box
 {
 display: flex;
 justify-content: space-between;
 align-items: center;
 padding-top: 50px;
 }
-.service .box div
+.meer .box div
 {
 width: 350px;
 background:#fff;
@@ -133,19 +133,19 @@ border-radius: 10px;
 text-align: center;
 padding:20px 10px;
 }
-.service .box div ion-icon
+.meer .box div ion-icon
 {
 color: #e33;
 font-size: 50px;
 padding-top: 20px;
 }
-.service .box div h2
+.meer .box div h2
 {
 font-weight: bold;
 cursor: pointer;
 padding-top: 20px;
 }
-.service .box div p
+.meer .box div p
 {
 color: #111;
 line-height: 25px;
